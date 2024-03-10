@@ -16,7 +16,7 @@ function Skill() {
       {/*Container*/}
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div>
-          <p className="text-4xl font-bold inline border-b-4 border-pink-600">
+          <p className="text-4xl font-bold inline border-b-4 border-yellow-400">
             Färdigheter
           </p>
           <p className="py-4">Detta är teknologierna jag jobbat med.</p>
