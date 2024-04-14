@@ -2,9 +2,6 @@ import React from 'react';
 
 import toDo from '../assets/toDo.jpg';
 
-// import WorkImg from '../assets/workImg.jpeg';
-// import realEstate from '../assets/realestate.jpg';
-
 function Work() {
   return (
     <div
