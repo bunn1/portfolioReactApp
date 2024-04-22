@@ -1,6 +1,8 @@
 import React from 'react';
 
 import toDo from '../assets/toDo.jpg';
+import movieThree from '../assets/movieThree.jpg';
+import weather from '../assets/weather.jpg';
 
 function Work() {
   return (
@@ -15,7 +17,7 @@ function Work() {
           <p className="text-4xl font-bold inline border-b-4 text-gray-300 border-yellow-400">
             Work
           </p>
-          <p className="py-6">Check my work!</p>
+          <p className="py-8">Check my work!</p>
         </div>
 
         {/* Container */}
@@ -29,7 +31,7 @@ function Work() {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS applicering
+                React ToDo App
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
@@ -37,7 +39,7 @@ function Work() {
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/bunn1/doReact">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -46,13 +48,13 @@ function Work() {
             </div>
           </div>
           <div
-            // style={{ backgroundImage: `url(${WorkImg})` }}
+            style={{ backgroundImage: `url(${movieThree})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS applicering
+                React Movie App
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
@@ -60,7 +62,7 @@ function Work() {
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/bunn1/movieappreact">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -70,13 +72,13 @@ function Work() {
           </div>
           {/* Grid Item */}
           <div
-            style={{ backgroundImage: `url(${toDo})` }}
+            style={{ backgroundImage: `url(${weather})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS applicering
+                React Weather App
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
@@ -84,7 +86,7 @@ function Work() {
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/bunn1/weather.react">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>

@@ -16,7 +16,6 @@ function Contact() {
             Contact
           </p>
           <p className="text-gray-300 py-4">
-            {/* Submit the form below or shoot me an email - niclasjohnbunn@gmail.com */}
             Submit the form below or shoot me an email -
             niclasjohnbunn@gmail.com
           </p>
@@ -26,21 +25,27 @@ function Contact() {
           type="text"
           placeholder="Name"
           name="name"
+          defaultValue=""
         />
         <input
           className="my-4 p-2 bg-[#ccd6f6]"
           type="email"
           placeholder="Email"
           name="email"
+          defaultValue=""
         />
         <textarea
           className="bg-[#ccd6f6] p-2"
           name="message"
           rows="10"
           placeholder="Message"
+          defaultValue=""
         ></textarea>
-        <button className="text-white border-2 hover:bg-yellow-400 hover:border-yellow-400 px-4 py-3 my-8 mx-auto flex items-center">
-          Lets collaborate
+        <button
+          className="text-white border-2 hover:bg-yellow-400 hover:border-yellow-400 px-4 py-3 my-8 mx-auto flex items-center"
+          type="submit"
+        >
+          Send Mail
         </button>
       </form>
     </div>
