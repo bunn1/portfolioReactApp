@@ -57,12 +57,13 @@ function Work() {
                 React Movie App
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://bunn1.github.io/movieappreact/">
                   <button className="text-center rounded-lg px-4 py-3 m-2">
                     Demo
                   </button>
                 </a>
                 <a href="https://github.com/bunn1/movieappreact">
+                  https://github.com/bunn1/doReact/settings/hooks
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
