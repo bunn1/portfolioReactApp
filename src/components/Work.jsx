@@ -34,12 +34,12 @@ function Work() {
                 React ToDo App
               </span>
               <div className="pt-8 text-center">
-                <a href="https://bunn1.github.io/doReact/">
+                <a href="https://bunn1.github.io/todo/">
                   <button className="text-center rounded-lg px-4 py-3 m-2">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/bunn1/doReact">
+                <a href="https://github.com/bunn1/todo">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
