@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import Logo from '../assets/logo2.png';
+import cv from '../assets/cv.pdf';
 import { Link } from 'react-scroll';
 
 import {
@@ -11,7 +12,7 @@ import {
   // FaLinkedinIn,
 } from 'react-icons/fa';
 
-import { HiOutlineMail } from 'react-icons/hi';
+// import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 
 function Navbar() {
@@ -102,7 +103,7 @@ function Navbar() {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/home"
             >
               Linkedin <FaLinkedin size={30} />
             </a>
@@ -124,16 +125,15 @@ function Navbar() {
               Email <HiOutlineMail size={30} />
             </a>
           </li>
-        
+        */}
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href={cv}
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
           </li>
-          */}
         </ul>
       </div>
     </div>
