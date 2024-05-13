@@ -1,13 +1,13 @@
 import React, { useState } from 'react';
 import Logo from '../assets/logo2.png';
-import cv from '../assets/cvTwo.pdf';
+import cv from '../assets/cv.pdf';
 import { Link } from 'react-scroll';
 
 import {
   FaBars,
   FaTimes,
-  FaGithub,
-  FaLinkedin,
+  // FaGithub,
+  // FaLinkedin,
   // FaFacebook,
   // FaLinkedinIn,
 } from 'react-icons/fa';
