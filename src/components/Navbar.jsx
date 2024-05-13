@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Logo from '../assets/logo2.png';
-import cv from '../assets/cv.pdf';
+import cv from '../assets/cvTwo.pdf';
 import { Link } from 'react-scroll';
 
 import {
