@@ -21,7 +21,7 @@ const About = () => {
               I find joy in developing software that improves people's lives.
               I'm experienced in creating tailored solutions for individuals,
               small businesses, and large corporations alike. Just imagine
-              having a skilled software specialist available whenever you need
+              having a skilled web developer available whenever you need
               assistance
             </p>
           </div>
