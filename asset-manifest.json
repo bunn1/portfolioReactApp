@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/portfolioreactapp/static/css/main.4207c1d1.css",
-    "main.js": "/portfolioreactapp/static/js/main.598c7b26.js",
+    "main.js": "/portfolioreactapp/static/js/main.041b3053.js",
     "static/media/movieThree.jpg": "/portfolioreactapp/static/media/movieThree.9e15da0e14697067b14b.jpg",
     "static/media/weather.jpg": "/portfolioreactapp/static/media/weather.86eb0f01143078aa796d.jpg",
+    "static/media/cvTwo.pdf": "/portfolioreactapp/static/media/cvTwo.90e0da1497db2333676d.pdf",
     "static/media/toDo.jpg": "/portfolioreactapp/static/media/toDo.e7ba6a65c8f717830ff0.jpg",
     "static/media/react.png": "/portfolioreactapp/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/github.png": "/portfolioreactapp/static/media/github.3b9e32903aa89111875d.png",
@@ -13,10 +14,10 @@
     "static/media/javascript.png": "/portfolioreactapp/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolioreactapp/index.html",
     "main.4207c1d1.css.map": "/portfolioreactapp/static/css/main.4207c1d1.css.map",
-    "main.598c7b26.js.map": "/portfolioreactapp/static/js/main.598c7b26.js.map"
+    "main.041b3053.js.map": "/portfolioreactapp/static/js/main.041b3053.js.map"
   },
   "entrypoints": [
     "static/css/main.4207c1d1.css",
-    "static/js/main.598c7b26.js"
+    "static/js/main.041b3053.js"
   ]
 }
