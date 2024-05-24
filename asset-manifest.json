@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolioreactapp/static/css/main.4207c1d1.css",
-    "main.js": "/portfolioreactapp/static/js/main.041b3053.js",
+    "main.js": "/portfolioreactapp/static/js/main.afe48eec.js",
     "static/media/movieThree.jpg": "/portfolioreactapp/static/media/movieThree.9e15da0e14697067b14b.jpg",
     "static/media/weather.jpg": "/portfolioreactapp/static/media/weather.86eb0f01143078aa796d.jpg",
     "static/media/cvTwo.pdf": "/portfolioreactapp/static/media/cvTwo.90e0da1497db2333676d.pdf",
@@ -14,10 +14,10 @@
     "static/media/javascript.png": "/portfolioreactapp/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolioreactapp/index.html",
     "main.4207c1d1.css.map": "/portfolioreactapp/static/css/main.4207c1d1.css.map",
-    "main.041b3053.js.map": "/portfolioreactapp/static/js/main.041b3053.js.map"
+    "main.afe48eec.js.map": "/portfolioreactapp/static/js/main.afe48eec.js.map"
   },
   "entrypoints": [
     "static/css/main.4207c1d1.css",
-    "static/js/main.041b3053.js"
+    "static/js/main.afe48eec.js"
   ]
 }
